@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Update (s)
+Comment=Update personaizado
+Exec=/opt/scripts/update_all.sh
+Icon=/opt/.icon/Update_icon.png
+Terminal=true
+Type=Application
+Categories=Scripts;
