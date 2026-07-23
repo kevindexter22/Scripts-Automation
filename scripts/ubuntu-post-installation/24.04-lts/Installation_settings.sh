@@ -214,7 +214,7 @@ RESET='\033[0m'
     
     install_it_tools() {
         sudo apt install dia rpi-imager anydesk wireshark remmina putty* -y
-        sudo apt install virtualbox virtualbox-dkms virtualbox-source -y
+        sudo apt install virtualbox virtualbox-source -y
         sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virt-manager -y
         sudo snap install core
         sudo snap install drawio
